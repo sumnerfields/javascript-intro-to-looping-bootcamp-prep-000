@@ -5,7 +5,7 @@ return array}
 function whileLoop (number) {while (number > 0) {console.log(--number)}
   return "done"}
 
-var i = 0
+var i = -1
 
 function incrementVariable() {
   i = i + 1
